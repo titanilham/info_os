@@ -1,5 +1,8 @@
 # info_os
 
+### Language:
++Python
+
 ```python
 
 class OsSistem:
