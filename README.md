@@ -1,4 +1,4 @@
-# info_os
+# Info os
 
 ### Language and module:
 
