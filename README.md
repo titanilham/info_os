@@ -4,7 +4,7 @@
 
 * Python
 * WMI 1.5.1
-===
+-----
 ```python
 
 class OsSistem:
