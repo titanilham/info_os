@@ -1,8 +1,9 @@
 # info_os
 
-### Language:
+### Language and module:
 
 * Python
+* WMI 1.5.1
 
 ```python
 
