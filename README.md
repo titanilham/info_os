@@ -1,10 +1,13 @@
-# Info os
+# Info os :desktop_computer:
 
 ### Language and module:
 
 * Python
 * WMI 1.5.1
 -----
+
+### Cod:
+
 ```python
 
 class OsSistem:
