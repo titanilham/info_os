@@ -29,3 +29,16 @@ class OsSistem:
 print(OsSistem.os())
 
 ```
+------
+
+<div id="badges">
+  <a href="https://vk.com/aniime_guy">
+    <img src="https://img.icons8.com/?size=512&id=13977&format=png"width="40" height="40"/>
+  </a>
+  <a href="https://t.me/Ilham06">
+    <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC9m1N5x0OXWihGpR50Yk35g">
+    <img src="https://img.icons8.com/?size=512&id=13983&format=png"width="40" height="40" />
+  </a>
+</div>
