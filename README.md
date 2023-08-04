@@ -1,7 +1,7 @@
 # info_os
 
 ## Language:
-### * Python
+* Python
 
 ```python
 
