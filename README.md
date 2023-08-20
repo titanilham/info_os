@@ -4,6 +4,8 @@
 
 * Python <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="15" height="15"/>
 * WMI 1.5.1 <img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" width="15" height="15"/>
+* Colorama <img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" width="15" height="15"/>
+
 -----
 
 ### Cod:
@@ -13,6 +15,8 @@
 class OsSistem:
     def os():
         import wmi
+        from colorama import Fore, Back, Style
+        
         computer = wmi.WMI()
         computer_info = computer.Win32_ComputerSystem()[0]
         os_info = computer.Win32_OperatingSystem()[0]
