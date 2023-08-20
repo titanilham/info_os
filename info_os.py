@@ -1,6 +1,8 @@
 class OsSistem:
-    def os():
+    def info():
         import wmi
+        from colorama import Fore, Back, Style
+        print(Fore.MAGENTA)
         computer = wmi.WMI()
         computer_info = computer.Win32_ComputerSystem()[0]
         os_info = computer.Win32_OperatingSystem()[0]
@@ -14,4 +16,5 @@ class OsSistem:
         lol = list(lol)
         return "\n".join(lol)
 
-print(OsSistem.os())
+print(OsSistem.info())
+
