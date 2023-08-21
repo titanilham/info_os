@@ -1,7 +1,13 @@
 class OsSistem:
+    
+    """Main class, find out the characteristics"""
+    
     def info():
+        
+        # Module installation 
         import wmi
         from colorama import Fore, Back, Style
+        
         print(Fore.MAGENTA)
         computer = wmi.WMI()
         computer_info = computer.Win32_ComputerSystem()[0]
@@ -17,4 +23,3 @@ class OsSistem:
         return "\n".join(lol)
 
 print(OsSistem.info())
-
