@@ -6,7 +6,7 @@
 * [WMI 1.5.1](https://pypi.org/project/WMI/) <img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" width="15" height="15"/>
 * [Colorama](https://pypi.org/project/colorama/) <img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" width="15" height="15"/>
 
------
+##
 
 ### Preview: 
 ![](https://github.com/titanilham/info_os/blob/main/preview.png?raw=true)
