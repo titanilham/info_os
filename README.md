@@ -1,4 +1,4 @@
-# Info os :desktop_computer:
+# System information in the console :desktop_computer:
 
 ### Language and module:
 
