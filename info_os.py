@@ -6,7 +6,7 @@ class OsSistem:
         
         # Module installation 
         import wmi
-        from colorama import Fore, Back, Style
+        from colorama import Fore, Back, Style 
         
         print(Fore.MAGENTA)
         computer = wmi.WMI()
@@ -23,3 +23,4 @@ class OsSistem:
         return "\n".join(lol)
 
 print(OsSistem.info())
+
