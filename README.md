@@ -14,7 +14,7 @@
 
 ##
 
-### Cod:
+### Code:
 
 ```python
 
