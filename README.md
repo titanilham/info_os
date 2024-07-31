@@ -22,7 +22,7 @@ class OsSistem:
     
     """Main class, find out the characteristics"""
     
-    def info():
+    def info() -> str:
         
         # Module installation 
         import wmi
